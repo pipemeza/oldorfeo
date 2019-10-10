@@ -5,7 +5,7 @@
 
 ###############################################################################
 
-REPOSITORIO= "https://github.com/mavasquezn/Orfeo3.8.git"	#Repositorio github
+REPOSITORIO= "https://github.com/cmmora/orfeo384.git"	#Repositorio github
 LOCAL="/var/www/html"
 DBNAME="dborfeo384"
 DBUSER="orfeo_user"
